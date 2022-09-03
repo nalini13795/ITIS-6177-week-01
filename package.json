@@ -1,0 +1,14 @@
+{
+  "name": "sample_proj",
+  "version": "1.0.0",
+  "description": "this is a sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
